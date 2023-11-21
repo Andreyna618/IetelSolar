@@ -1,0 +1,260 @@
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\appsettings.Development.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\appsettings.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.staticwebassets.runtime.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.exe
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.deps.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.runtimeconfig.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.dll
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.pdb
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.AssemblyReference.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.AssemblyInfoInputs.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.AssemblyInfo.cs
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cs
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\staticwebassets.build.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\staticwebassets.development.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\scopedcss\bundle\IETEL_Solar.styles.css
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.dll
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\refint\IETEL_Solar.dll
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.pdb
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.genruntimeconfig.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net6.0\ref\IETEL_Solar.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.exe
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\appsettings.json
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.staticwebassets.runtime.json
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.AssemblyInfo.cs
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cache
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cs
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\scopedcss\bundle\IETEL_Solar.styles.css
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.CopyComplete
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.dll
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\refint\IETEL_Solar.dll
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.pdb
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.deps.json
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.runtimeconfig.json
+C:\Users\aluno\Downloads\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.pdb
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.genruntimeconfig.cache
+C:\Users\aluno\Downloads\IETEL_Solar\obj\Debug\net6.0\ref\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.AssemblyReference.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.AssemblyInfoInputs.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.AssemblyInfo.cs
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cs
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\refint\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.pdb
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\appsettings.Development.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\appsettings.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.staticwebassets.runtime.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.exe
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.deps.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.runtimeconfig.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\IETEL_Solar.pdb
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Azure.Core.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Azure.Identity.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\staticwebassets.build.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\staticwebassets.development.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\scopedcss\bundle\IETEL_Solar.styles.css
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.csproj.CopyComplete
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\IETEL_Solar.genruntimeconfig.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar\obj\Debug\net6.0\ref\IETEL_Solar.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\appsettings.Development.json
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\appsettings.json
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.staticwebassets.runtime.json
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.exe
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.deps.json
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.runtimeconfig.json
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.pdb
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Azure.Core.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Azure.Identity.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.csproj.AssemblyReference.cache
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.AssemblyInfoInputs.cache
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.AssemblyInfo.cs
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cache
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cs
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\staticwebassets.build.json
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\staticwebassets.development.json
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\scopedcss\bundle\IETEL_Solar.styles.css
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.csproj.CopyComplete
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\refint\IETEL_Solar.dll
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.pdb
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.genruntimeconfig.cache
+E:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\ref\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\appsettings.Development.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\appsettings.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.staticwebassets.runtime.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.exe
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.deps.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.runtimeconfig.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\IETEL_Solar.pdb
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Azure.Core.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Azure.Identity.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.csproj.AssemblyReference.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.AssemblyInfoInputs.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.AssemblyInfo.cs
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.RazorAssemblyInfo.cs
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\staticwebassets.build.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\staticwebassets.development.json
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\scopedcss\bundle\IETEL_Solar.styles.css
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.csproj.CopyComplete
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\refint\IETEL_Solar.dll
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.pdb
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\IETEL_Solar.genruntimeconfig.cache
+D:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\obj\Debug\net6.0\ref\IETEL_Solar.dll

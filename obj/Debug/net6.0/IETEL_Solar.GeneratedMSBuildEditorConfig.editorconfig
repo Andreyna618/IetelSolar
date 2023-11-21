@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IETEL_Solar
+build_property.RootNamespace = IETEL_Solar
+build_property.ProjectDir = e:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = e:\Faculdade\4ºperíodo\POO\IETEL_Solar - Copia
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Agendamento/Agendamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9cQWdlbmRhbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Calculadora/CalculadoraSolar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcQ2FsY3VsYWRvcmFTb2xhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Calculadora/SimuladorSolar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcU2ltdWxhZG9yU29sYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Candidato/ListaCandidato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXExpc3RhQ2FuZGlkYXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Candidato/TrabalheConosco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXFRyYWJhbGhlQ29ub3Njby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Informacao/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNhb1xDb250YXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Informacao/Funcionamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNhb1xGdW5jaW9uYW1lbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Informacao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNhb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Orcamento/ListaOrcamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JjYW1lbnRvXExpc3RhT3JjYW1lbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Orcamento/Orcamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JjYW1lbnRvXE9yY2FtZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Vaga/AdicionaVaga.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxBZGljaW9uYVZhZ2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Vaga/ListaVaga.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxMaXN0YVZhZ2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4ºperíodo/POO/IETEL_Solar - Copia/Views/Vaga/ListaVagaCandidato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxMaXN0YVZhZ2FDYW5kaWRhdG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
